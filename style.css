@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+}
+p{
+  color: white;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+section{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.reset{
+  border: none;
+  border-radius: 15px;
+  padding: 10px 60px;
+  background-color: pink;
+}
+.color-display{
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 70px;
+}
+.message{
+  border: none;
+  border-radius: 15px;
+  padding: 10px 60px;
+  background-color: yellow;
+  text-align: center;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  width: 100%;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+
+}
+.color-box{
+  border: none;
+  width: 150px;
+  height: 150px;
+  background-color: rgb(184, 247, 247);
+  border-radius: 10px;
+}
+.easy{
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 15px;
+  border: none;
+}
+.active-mode {
+  background-color: red;
+  color: white;
+}
+#hard{
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 15px;
+  border: none;
+}
+.divbutton{
+  display: flex;
+  justify-content: end;
+  gap: 5px;
+  margin-top: -36px;
+}
