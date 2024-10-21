@@ -38,7 +38,7 @@ To run this game, you need:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/RGB-Color-Game.git
+    git clone https://github.com/anageguchadze/rgb-color-game
     ```
 2. Navigate to the project directory:
     ```bash
